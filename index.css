@@ -1,0 +1,107 @@
+
+        
+    .brk-pi{
+        position:relative;
+       
+    }    
+     .picture-info{
+     
+        width:100%;
+        display:inline-block;
+        
+    }
+    .picture-info:hover{
+        opacity:0.5px;
+    }
+    .absolute{
+        position:absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+    }
+    .grid-conatiner{
+        display: grid;
+        display:inline-block;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+
+    }
+  
+    .facebook-button{
+    padding-left:20px;
+padding-right: 20px;
+padding-top:20px;
+padding-bottom:20px;
+border-color:rgb(25, 0, 92);
+margin-bottom:10px;
+cursor:pointer;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color:#668bdb;
+background-color:#1d61e7;
+opacity:0.3px;
+border-radius:5%;
+font-size:25px;
+    }
+    .facebook-button:hover{
+        opacity:0.5
+    }
+    .instagram-button{
+        padding-left:20px;
+padding-right: 20px;
+padding-top:20px;
+padding-bottom:20px;
+border-color:rgb(214, 228, 223);
+margin-bottom:10px;
+cursor:pointer;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+background-color:#e74fb4;
+opacity:0.3px;
+border-radius:5%;
+color:#72acee;
+font-size:25px;
+    }
+.instagram-button:hover{
+        opacity:0.5
+    }
+    
+    .snapchat-button{
+        padding-left:20px;
+padding-right: 20px;
+padding-top:20px;
+padding-bottom:20px;
+border-color:rgb(65, 107, 93);
+margin-bottom:10px;
+cursor:pointer;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+background-color:#044d85;
+opacity:0.3px;
+border-radius:5%;
+color:#efefef;
+font-size:25px;
+    }
+    .snapchat-button:hover{
+        opacity:0.5}
+   
+    .Tiktok-button{
+        padding-left:20px;
+padding-right: 20px;
+padding-top:20px;
+padding-bottom:20px;
+border-color:rgb(65, 81, 76);
+cursor:pointer;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+background-color:#ecb674;
+opacity:0.3px;
+border-radius:5%;
+color:#1e3d26;
+font-size:25px;
+
+    }
+    .Tiktok-button:hover{
+        opacity:0.5
+    }
